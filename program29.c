@@ -1,19 +1,4 @@
-// Accept number from user and display its factors
-
-// Input :      10
-// Output :    1    2   5
-
-// Input :      9
-// Output :     1     3
-
-// Input :          17
-// Output :         1
-
-// Input :          20
-// Output :         1   2   4   5   10
-
-// Input :          -20
-// Output :         1     2     4       5       10
+// Accept number from user and display its factor
 
 #include<stdio.h>
 
@@ -46,32 +31,9 @@ int main()
 }
 
 
-// Time Complexity : O(N)
 
 
 
-/*
-Input : 10
-iNo = 10
-
-if((iNo % 1) == 0)
-{}
-if((iNo % 2) == 0)
-{}
-if((iNo % 3) == 0)
-{}
-if((iNo % 4) == 0)
-{}
-if((iNo % 5) == 0)
-{}
-if((iNo % 6) == 0)
-{}
-if((iNo % 7) == 0)
-{}
-if((iNo % 8) == 0)
-{}
-if((iNo % 9) == 0)
-{}
 
 
 
